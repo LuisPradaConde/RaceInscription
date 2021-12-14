@@ -1,0 +1,6 @@
+ALUMNO				FUNCIONALIDADES
+......				...............
+
+Pablo Santos Cabaleiro		1 y 3
+Luis Prada Conde 		2 y 6
+Borja Alonso Sobral		4 y 5 
